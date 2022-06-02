@@ -1,0 +1,4 @@
+1. 배경색을 지정하는 background-color 속성
+    - 배경색도 폰트색상 지정하는 것과 마찬가지로
+      16진수 값, rgb, tgba 값으로 지정가능 
+    - background-color
