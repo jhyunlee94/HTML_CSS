@@ -408,5 +408,9 @@ input[type="submit"]{
     .location-info, .location-map {
         width: 100%;
      }
+
+     .location-map iframe {
+         width: 100%;
+     }
     
 }
